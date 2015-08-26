@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#current-time{
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+}
+
+#clock {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+}
+
+.row{
+    width: 100%;
+    display: block;
+}
